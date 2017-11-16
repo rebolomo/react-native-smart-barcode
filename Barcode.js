@@ -7,9 +7,12 @@
 
 
 import React, {
-    PropTypes,
+    //PropTypes,
     Component,
 } from 'react'
+
+import PropTypes from 'prop-types';
+
 import {
     View,
     requireNativeComponent,
