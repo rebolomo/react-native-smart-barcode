@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-component/react-native-smart-barcode.git"
+    "url": "git+https://github.com/rebolomo/react-native-smart-barcode.git"
   },
   "keywords": [
     "react-native",
